@@ -1,0 +1,2 @@
+# PatikaRepo
+Patika ilk repo
